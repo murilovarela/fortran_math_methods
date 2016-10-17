@@ -1,1 +1,1 @@
-echo # fortran_math_methods
+Use any method as you want to.
